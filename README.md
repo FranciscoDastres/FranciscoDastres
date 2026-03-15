@@ -1,3 +1,12 @@
+
+# Hola! soy Francisco Meza Dastres
+
+Ingeniero Informático Desarrollador Full Stack Administrador Cloud AWS
+
+
+## 🚀 Acerca de mí
+Ingeniero Informático con 2+ años de experiencia construyendo aplicaciones web modernas y escalables. Especializado en desarrollo full stack con React, Node.js y PostgreSQL, con foco en arquitecturas limpias y experiencias de usuario fluidas. Apasionado por la nube ☁️ — administrador AWS con experiencia en despliegue, contenedores con Docker y automatización de infraestructura. Siempre aprendiendo, siempre construyendo.
+
 ## 🛠 Skills
 
 ### Frontend
@@ -27,6 +36,5 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Snake](https://raw.githubusercontent.com/franciscoDastres/franciscoDastres/output/github-contribution-grid-snake.svg)
-
 
 
