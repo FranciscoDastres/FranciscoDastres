@@ -10,13 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Platane/snk@v4
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          start_date: "2026-01-01"
+            dist/github-contribution-grid-snake.svg?weeks=26
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&weeks=26
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
