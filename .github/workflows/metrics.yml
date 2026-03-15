@@ -1,0 +1,31 @@
+name: Metrics
+on:
+  # Se ejecuta cada 24 horas automáticamente
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite ejecutarlo manualmente desde la pestaña "Actions"
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Tu token (ver paso 2 abajo)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Configuración básica
+          user: FranciscoDastres
+          template: classic
+          base: "" # No mostrar info básica, solo los plugins que pediste
+          
+          # PLUGIN: Isocalendar (Vista 3D)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # Muestra los últimos 6 meses para que se vea limpio
+
+          # PLUGIN: Calendario de Commits (Solo año actual)
+          plugin_calendar: yes
+          plugin_calendar_limit: 1 # Limita a 1 año (el actual)
