@@ -35,6 +35,7 @@ Ingeniero Informático con 2+ años de experiencia construyendo aplicaciones web
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Snake](https://raw.githubusercontent.com/franciscoDastres/franciscoDastres/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/FranciscoDastres/FranciscoDastres/output/github-contribution-grid-snake-dark.svg)
+
 
 
