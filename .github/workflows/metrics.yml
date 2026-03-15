@@ -17,24 +17,17 @@ jobs:
           template: classic
           base: "" 
           
-          # Ajuste de tamaño para que se vea más grande
+          # Ajustes de visualización
           config_display: regular
-          # Esto ayuda a que el contenido no se amontone
           config_padding: 0, 8%
 
-          # PLUGIN: Isocalendar (Vista 3D)
+          # PLUGIN: Isocalendar (Vista 3D) - Configurado para el año completo
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-          # PLUGIN: Calendario de Commits (Año actual)
-          # Lo configuramos para que ocupe buen espacio
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_isocalendar_duration: full-year 
 
           # PLUGIN: Lenguajes más usados
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss # Ignoramos estos para resaltar JS/TS/Node
+          plugin_languages_ignored: html, css, scss, render
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
-          plugin_languages_limit: 8 # Muestra tu top 8 de lenguajes
-          plugin_languages_recent_days: 14 # Resalta lo que has usado últimamente
+          plugin_languages_limit: 8
