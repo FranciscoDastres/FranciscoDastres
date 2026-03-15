@@ -36,4 +36,6 @@ Ingeniero Informático con 2+ años de experiencia construyendo aplicaciones web
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Metrics
-![Metrics](/github-metrics.svg)
+<p align="center">
+  <img width="800" src="/github-metrics.svg" alt="Mis métricas de desarrollo">
+</p>
