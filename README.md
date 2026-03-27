@@ -1,11 +1,13 @@
 
-# Hola! soy Francisco Meza Dastres
+# Hello! I'm Francisco Meza Dastres
 
-Ingeniero Informático Desarrollador Full Stack Administrador Cloud AWS
+Software Engineer · Full Stack Developer · AWS Cloud Administrator
 
 
 ## 🚀 Acerca de mí
-Ingeniero Informático con 2+ años de experiencia construyendo aplicaciones web modernas y escalables. Especializado en desarrollo full stack con React, Node.js y PostgreSQL, con foco en arquitecturas limpias y experiencias de usuario fluidas. Apasionado por la nube ☁️ — administrador AWS con experiencia en despliegue, contenedores con Docker y automatización de infraestructura. Siempre aprendiendo, siempre construyendo.
+Software Engineer with 2+ years of experience building modern and scalable web applications. Specialized in full-stack development with React, Node.js, and PostgreSQL, with a strong focus on clean architecture and smooth user experiences.
+Cloud-driven ☁️ — AWS administrator with hands-on experience in deployments, Docker containers, and infrastructure automation.
+Always learning, always building.
 
 ## 🛠 Skills
 
