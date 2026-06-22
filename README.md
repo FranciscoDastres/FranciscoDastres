@@ -5,7 +5,7 @@ Software Engineer · Full Stack Developer · AWS Cloud Administrator
 
 
 ## 🚀 Acerca de mí
-Software Engineer with 2+ years of experience building modern and scalable web applications. Specialized in full-stack development with React, Node.js, and PostgreSQL, with a strong focus on clean architecture and smooth user experiences.
+Software Engineer with 3+ years of experience building modern and scalable web applications. Specialized in full-stack development with React, Node.js, and PostgreSQL, with a strong focus on clean architecture and smooth user experiences.
 Cloud-driven ☁️ — AWS administrator with hands-on experience in deployments, Docker containers, and infrastructure automation.
 Always learning, always building.
 
